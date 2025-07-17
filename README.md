@@ -22,7 +22,7 @@
 - Cooldown: 1 hour
 - Prices per item:
   - Logs: between $35 and $75 
-  - Pallets/Planks: $1,000 and $1,750
+  - Pallets/Planks: between $1,000 and $1,750
 
 ---
 
